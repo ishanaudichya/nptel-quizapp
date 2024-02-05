@@ -1,0 +1,126 @@
+{
+  "forest": {
+    "quiz1": [
+      {
+        "subject": "forest",
+        "quizNumber": 1,
+        "question": "Tropical moist forests do not include which of the following?",
+        "options": [
+          "Broadleaved forests",
+          "Wet evergreen forests",
+          "Semi-evergreen forests",
+          "Moist deciduous forests"
+        ],
+        "correctOption": "Broadleaved forests"
+      },
+      {
+        "subject": "forest",
+        "quizNumber": 1,
+        "question": "Which of these is not a use value?",
+        "options": [
+          "Direct value",
+          "Indirect value",
+          "Option value",
+          "Existence value"
+        ],
+        "correctOption": "Existence value"
+      },
+      {
+        "subject": "forest",
+        "quizNumber": 1,
+        "question": "The value derived from the knowledge of use of resources by others in the current generation is called?",
+        "options": [
+          "Altruistic value",
+          "Bequest value",
+          "Existence value",
+          "Option value"
+        ],
+        "correctOption": "Altruistic value"
+      },
+      {
+        "subject": "forest",
+        "quizNumber": 1,
+        "question": "Montane sub-tropical forests do not involve which of the following?",
+        "options": [
+          "Broadleaved forests",
+          "Pine forests",
+          "Semi-evergreen forests",
+          "Dry evergreen forests"
+        ],
+        "correctOption": "Semi-evergreen forests"
+      },
+      {
+        "subject": "forest",
+        "quizNumber": 1,
+        "question": "\"Pant community, predominantly comprised of trees and other woody vegetation, usually with a closed canopy\" is?",
+        "options": [
+          "Silviculture definition of forests",
+          "FAO definition of forests",
+          "Legal definition of forests",
+          "Ecological definition of forests"
+        ],
+        "correctOption": "Ecological definition of forests"
+      },
+      {
+        "subject": "forest",
+        "quizNumber": 1,
+        "question": "Which of these is not a consumptive value?",
+        "options": [
+          "Timber",
+          "Firewood",
+          "Non-timber forest products",
+          "Education"
+        ],
+        "correctOption": "Education"
+      },
+      {
+        "subject": "forest",
+        "quizNumber": 1,
+        "question": "The term 'forest' originates from?",
+        "options": [
+          "Latin foris meaning outside",
+          "Greek foris meaning outside",
+          "Latin foris meaning trees",
+          "Greek foris meaning trees"
+        ],
+        "correctOption": "Latin foris meaning outside"
+      },
+      {
+        "subject": "forest",
+        "quizNumber": 1,
+        "question": "The value of leaving use and non-use values for offspring's or future generation is called?",
+        "options": [
+          "Altruistic value",
+          "Bequest value",
+          "Existence value",
+          "Option value"
+        ],
+        "correctOption": "Bequest value"
+      },
+      {
+        "subject": "forest",
+        "quizNumber": 1,
+        "question": "Which of these is not a forest type found in India?",
+        "options": [
+          "Mediterranean dry",
+          "Tropical dry",
+          "Montane temperate",
+          "Alpine"
+        ],
+        "correctOption": "Mediterranean dry"
+      },
+      {
+        "subject": "forest",
+        "quizNumber": 1,
+        "question": "According to the Supreme Court, the term 'forest land' includes?",
+        "options": [
+          "Some area recorded as forest in the government record according to ownership",
+          "Any area recorded as forest in the government record according to ownership",
+          "Some area recorded as forest in the government record irrespective of ownership",
+          "Any area recorded as forest in the government record irrespective of ownership"
+        ],
+        "correctOption": "Any area recorded as forest in the government record irrespective of ownership"
+      }
+    ]
+  }
+}
